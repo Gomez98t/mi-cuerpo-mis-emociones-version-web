@@ -1,0 +1,18 @@
+# Archivos de desarrollo local
+INICIAR_SERVIDOR.bat
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (si usas npm en el futuro)
+node_modules/
+package-lock.json
